@@ -127,7 +127,7 @@ namespace cs_game
                     "The diffuclty increases by time",
                     "Have fun and good luck! :)",
                     "",
-                    "Created by Ärix and Swag",
+                    "Created by Ich.",
                     "",
                     "",
                     "Press SPACE to start"
